@@ -1,0 +1,14 @@
+.foot {
+    background-color: var(--verde);
+    padding: 1em 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+.button-redes-sociales {
+    margin: 0 7px;
+}
+
+.bi {
+    margin-right: 4px;
+}

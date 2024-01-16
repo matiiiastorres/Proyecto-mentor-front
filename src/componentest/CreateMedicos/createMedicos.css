@@ -1,0 +1,20 @@
+.area-listado-select{
+  background-color: transparent;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid var(--negro-letra);
+  margin: 10px 0;
+  color: var(--negro-letra);
+  font-weight: bold;
+  padding-left: 5px;
+}
+.area-listado-select:focus-visible{
+  outline: none;
+}
+.area-listado-select::content{
+  background-color: aliceblue;
+}
+.areas-listado:hover{
+  color: var(--negro-letra);
+  font-weight: bold;
+}
